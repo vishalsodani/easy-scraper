@@ -3,7 +3,7 @@
 HTML scraping library focused on easy to use.
 
 In this library, matching patterns are described as HTML DOM trees.
-You can write patterns intuitive and extract desired contents easily.
+You can write patterns intuitively and extract desired contents easily.
 
 # Usage
 
@@ -68,7 +68,7 @@ If the document is:
 </ul>
 ```
 
-there trees are subset of this.
+three trees are subset of this.
 
 ```html
 <ul>
@@ -303,7 +303,7 @@ This is valid:
 </div>
 ```
 
-There are invalid:
+These are invalid:
 
 ```html
 <div>
